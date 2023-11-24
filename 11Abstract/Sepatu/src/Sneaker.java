@@ -15,6 +15,6 @@ public class Sneaker extends Sepatu {
 
     @Override
     public void tipePakai() {
-        System.out.println("Tipe Pakai: Biasanya digunakan sehari-hari.");
+        System.out.println("Tipe Pakai: Biasanya digunakan sehari hari.");
     }
 }

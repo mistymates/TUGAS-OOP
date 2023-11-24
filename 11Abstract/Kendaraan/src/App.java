@@ -1,7 +1,7 @@
 // AplikasiKendaraan.java
 public class App {
     public static void main(String[] args) {
-        Mobil toyotaSupra = new Mobil("Toyota");
+        Mobil toyotaSupra = new Mobil("Toyota Supra");
         Motor yamahaNmax = new Motor ("Honda Beat");
 
         System.out.println("Informasi Mobil:");
