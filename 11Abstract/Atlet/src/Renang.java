@@ -13,6 +13,6 @@ public class Renang extends Atlet {
 
     @Override
     public void berkompetisi() {
-        System.out.println(nama + " sedang berkompetisi renang dengan gaya nomor " + gaya + ".");
+        System.out.println(nama + " sedang berkompetisi renang dengan gaya  " + gaya + ".");
     }
 }

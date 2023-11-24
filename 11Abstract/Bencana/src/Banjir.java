@@ -5,6 +5,6 @@ public class Banjir extends BencanaAlam {
 
     @Override
     public void deskripsi() {
-        System.out.println("Bencana " + getJenis() + ": Air meluap dan melanda wilayah dataran rendah.");
+        System.out.println("Bencana " + getJenis() + ": Kebanyakan Air dan melanda wilayah dataran rendah.");
     }
 }
