@@ -26,4 +26,3 @@ public class Game {
         return judul + " - Genre: " + genre + " - Harga: Rp" + harga;
     }
 }
-// Game.java

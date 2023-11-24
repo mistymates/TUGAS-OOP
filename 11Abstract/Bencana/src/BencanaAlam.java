@@ -5,7 +5,7 @@ public abstract class BencanaAlam {
         this.jenis = jenis;
     }
 
-    public abstract void deskripsi(); // Metode abstrak untuk memberikan informasi tentang bencana
+    public abstract void deskripsi(); 
 
     public String getJenis() {
         return jenis;

@@ -9,5 +9,5 @@ public abstract class Pakaian {
         return merek;
     }
 
-    public abstract void deskripsi(); // Metode abstrak untuk memberikan informasi tentang pakaian
+    public abstract void deskripsi();
 }

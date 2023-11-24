@@ -5,7 +5,7 @@ public abstract class Makanan {
         this.nama = nama;
     }
 
-    public abstract void deskripsi(); // Metode abstrak untuk memberikan informasi tentang makanan
+    public abstract void deskripsi();
 
     public String getNama() {
         return nama;

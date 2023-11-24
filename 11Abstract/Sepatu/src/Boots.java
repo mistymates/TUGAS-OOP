@@ -5,7 +5,7 @@ public class Boots extends Sepatu {
 
     @Override
     public void deskripsi() {
-        System.out.println("Boots " + getMerek() + ": Ideal untuk cuaca dingin dan kondisi medan yang kasar.");
+        System.out.println("Boots " + getMerek() + ": Cocok untuk anak metal dan bikers.");
     }
 
     @Override
