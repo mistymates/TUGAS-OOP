@@ -1,4 +1,3 @@
-// SUV.java
 public class SUV extends Mobil {
     private boolean kemampuanOffRoad;
 

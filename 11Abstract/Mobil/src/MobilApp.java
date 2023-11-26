@@ -1,4 +1,3 @@
-// AplikasiMobil.java
 public class MobilApp {
     public static void main(String[] args) {
         Sedan sedanMobil = new Sedan("Toyota Camry", 5);
