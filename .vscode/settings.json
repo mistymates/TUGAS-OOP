@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "kampus-app-main\\kampus-app-main\\lib\\gson-2.10.1.jar",
+        "KampusAppProdi\\kampus-app-main\\lib\\gson-2.10.1.jar"
+    ]
+}
